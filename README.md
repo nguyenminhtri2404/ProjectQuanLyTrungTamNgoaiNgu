@@ -4,7 +4,7 @@
 - Cơ sở dữ liệu: SQL Server
 
 ### Tổng quan tất cả chức năng:
-- CRUD: học viên, học tập, tra cứu, khuyến mãi, hoá đơn 
+- CRUD: học viên, học tập, tra cứu, khuyến mãi, hoá đơn, điểm số, lớp học
 - Phân quyền, đăng nhập, đổi mật khẩu
 - Thống kê sử dụng CrystalReport
 
