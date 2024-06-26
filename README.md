@@ -4,7 +4,9 @@
 - Cơ sở dữ liệu: SQL Server
 
 ### Tổng quan tất cả chức năng:
-CRUD Form học viên, form học tập, form tra cứu, Form khuyến mãi, thống kê, Form hoá đơn, phân quyền, đăng nhập, đổi mật khẩu, Giao diện, form tạo lớp, form giáo viên
+- CRUD: học viên, học tập, tra cứu, khuyến mãi, hoá đơn 
+- Phân quyền, đăng nhập, đổi mật khẩu
+- Thống kê sử dụng CrystalReport
 
 ### Chức năng
 - Chức năng tạo lớp học
