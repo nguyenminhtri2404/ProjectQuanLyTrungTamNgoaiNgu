@@ -1,6 +1,6 @@
 ﻿# Phần mềm quản lý trung tâm ngoại ngữ
 ### Công nghệ sử dụng: 
-- .NET C#
+- ADO.NET C#
 - Cơ sở dữ liệu: SQL Server
 
 ### Tổng quan tất cả chức năng:
