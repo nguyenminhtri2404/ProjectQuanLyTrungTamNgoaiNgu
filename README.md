@@ -8,6 +8,6 @@
 - Phân quyền, đăng nhập, đổi mật khẩu
 - Thống kê sử dụng CrystalReport
 
-### Chức năng
+### Chức năng đảm nhận
 - Chức năng tạo lớp học
 - Chức năng quản lý giáo viên 
